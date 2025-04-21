@@ -1,2 +1,2 @@
 Este el el fichero markdown de Juan
-cambio el fichero de juan trabajando en el repositorio de Maria
+Cambio algo en el ficheor de Juan con el repositorio de Juan
