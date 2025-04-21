@@ -1,3 +1,4 @@
 esto es un conflicto
 desde la rama nueva
 linea tres añadida
+cambio el fichero de conflicto para la práctica 4
